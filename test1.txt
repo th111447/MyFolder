@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8AAE-282B
+
+ Directory of C:\MyFolder
+
+01/28/2021  11:45 AM    <DIR>          .
+01/28/2021  11:45 AM    <DIR>          ..
+01/28/2021  11:45 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  803,623,133,184 bytes free
